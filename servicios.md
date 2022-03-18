@@ -10,4 +10,4 @@ _Nos encargamos de darte los mejores servicios con equipos de primera mano y her
 + limpieza de gabinete y tarjeta madre 
 + cambio de piezas
 
- >**tenemos mas sevicios ya que somos una empresa dedicada  
+ >**tenemos más sevicios ya que somos una empresa dedicada a la mejora de equipos y a que sean utiles pra los estudiantes tanto como oficinistas y empresas nustra empresa quiere ayudrte a tener un mejor desemeño  en sus maquinas el rendimiento  nuestra empresa esta para servirte.<3**
