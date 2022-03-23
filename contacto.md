@@ -3,6 +3,8 @@
 ## Contacto
 > ### _Nos puede contactar en los siguentes  sitios_:
 
-- **(taniaberenicesabinoc20.ce32@gmail.com)_
-- **(5545324619)_
-- **5533957727)_
+**CORREO ELECTRONICO** taniaberenicesabinoc20.ce32@gmail.com
+
+**NUMERO TELEFONICO**:5545324619
+
+**NUMERO DE WHATSAPP** :5533957727
