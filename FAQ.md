@@ -53,3 +53,80 @@ programa. Esta fase requiere una clara definición donde se contemple exactament
 >**_2 Diseño del Algoritmo._** En la fase de diseño se determina como hace el programa la tarea solicitada. Los métodos utilizados para el proceso del diseño se basan en el conocido divide y vencerás: la resolución de un problema complejo se realiza dividiendo el problema en subproblemas y a continuación dividir estos en otros de nivel mas bajo, hasta que sea implementada una solución en la computadora. Este método se conoce técnicamente como diseño descendente (top-down) o modular.
 
 > **_3 Implementación del Algoritmo._** Para implementar un algoritmo en la computadora, se debe ejecutar los siguientes pasos: Codificación y documentación, Compilación y ejecución, Verificacion y finalmente la Depuración.
+
++ **_8 ¿Cuáles son  5 Códigos de Error de Redes?_**
+
+>1.-14 La conexión se ha eliminado o reconectado.
+
+>2.-600 Hay una operación pendiente. Puede haberse modificado la configuración del módem sin reiniciar Windows.
+
+>3.- 601 No es válido el indicador de puerto. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
+
+>4.-602 El puerto ya está abierto. Otro programa está utilizando el módem.
+
+>5.-603 Las configuraciones del búfer (espacio disponible en el equipo para acceder al módem) son demasiado pequeñas. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
+
+ + **_9¿Cuándo debes cambiar componentes de una pc?_**
+
+>**Si tu CPU tiene una antigüedad mayor a tres años no la actualices, porque no compensa. Mejor ahorra y actualiza el ordenador al completo, ya que aunque adquiras un equipo muy básico ofrecerá un rendimiento por encima del que tienes actualmente.**
+
+>**Si tu CPU tiene una antigüedad menor a tres años y además es un equipo básico – por ejemplo AMD Athlon II de entrada o Intel Core i3 – puede ser interesante aprovechar la placa para añadirle un nuevo microprocesador de segunda mano.**
+
+>**Si tu CPU tiene una antigüedad menor a tres años y además es un equipo de gama media o alta – AMD Phenom II o Intel Core i5 o  i7 – lo más probable es que no necesites una actualización de la CPU, ya que todos estos modelos se comportan excelentemente**
+
++ **_10¿Qué se debe actualizar y/o cambiar en una pc?_**
+
+>Microprocesador
+
+>Memoria RAM
+
+>tarjeta gráfica
+
+>Almacenamiento (DISCO DURO)
+
++ **_11¿Cual es el procedimiento para realizar un diagnostico de fallas en el hardware?_**
+
+
+> _1 Poseer un Auto-Control de la Situación_
+
+> 2_Llevar acabo Primero el procedimiento más sencillo_
+
+> 3 _Sistema Muerto (no Arranca)_
+
+> 4_Determina si la computadora está recibiendo Corriente Eléctrica_
+
+> 5_Cotejar la fuente de potencia de la Computadora_
+
+> 6_Verificación de las conexiones de la tarjeta del sistem
+
+>7_inspección interna de los cables que suplen corriente Eléctrica directamente la maquina y realizar varias pruebas
+
+>8_Instalar una Tarjeta de video al Sistema:
+
+>9_Reinstalar un componente de la Computadora a la vez para detectar la falla
+
+>10_Sistema con fallas
+
+>11_Reinicie la Máquina ("Reboot" o "Restart")
+
+>12_Trate de delimitar su problem
+
+>13_Dispositivo y Lugar de trabajo
+
+>14_Determinar si el problema es de Programación ("Software") o de Equipo ("Hardware"):
+
+>15_Localizar problemas de Programación ("Software")
+
+>16_Determinar el programa más recientemente instalado
+
+>17_Reinstalar programa o aplicación
+
+>18_Desinstalar programas}
+
+>19_Revisar disco duro por virus
+
+>20_Verificar los registros del sistema
+
+>21_Localizar Problemas de Equipo ("Hardware"), cotejar los mensajes de error.
+
+
