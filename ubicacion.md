@@ -2,7 +2,7 @@
 
 # Ubicación
 
->**_Nos ubicamos  en calla 1 maz 13 lot 1a colonia vale de los resyes la paz  ente la avenida itpan y tenancigo_**
+>**_Nos ubicamos  en calla 1 maz 13 lot 1a colonia vale de los resyes la paz  ente la avenida ixtpan y tenancigo_**
 
 
  
