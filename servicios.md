@@ -1,6 +1,6 @@
-## [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
+### [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-# Servicios
+## Servicios
 
 _Nos encargamos de darte los mejores servicios con equipos de primera mano y herramientas de última técnología lo que te hara que confien en nosotros y en nustros tecnicos tenemos diferentes servicios a parte de dar servicios corectivos y preventivos_
 
