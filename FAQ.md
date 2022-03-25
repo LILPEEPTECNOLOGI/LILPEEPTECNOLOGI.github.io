@@ -212,7 +212,7 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 
 > Microproocesador, Memoria RAM, Tarjeta grafica, Disco duro
 
-+ **_29¿Que hacer si el PC va lento?_*+
++ **_29¿Que hacer si el PC va lento?_**
 
 > descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
 
