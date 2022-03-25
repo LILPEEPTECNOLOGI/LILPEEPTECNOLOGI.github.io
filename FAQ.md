@@ -264,7 +264,7 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 
 > Tener un antivirus instalado que te alertará sobre los archivos que descargás. Si sospechas que tu computadora está infectada, llevala a un técnico para que te ayude a eliminar el virus.
 
-+ **_ 42¿La temida pantalla azul?_**
++ **_42¿La temida pantalla azul?_**
 
 > Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
 
