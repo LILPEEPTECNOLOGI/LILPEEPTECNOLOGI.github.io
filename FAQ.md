@@ -180,5 +180,35 @@ Si todo está bien y, sin embargo, no puede acceder a ese archivo, asegúrese de
 
 + **_21¿Se me garantiza una solución?:_**
 
-> Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes. Los clientes pueden solicitar cerrar un caso antes de que se resuelva; sin embargo, el estado de facturación del incidente queda a discreción de Microsoft.
+> Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes. Los clientes pueden solicitar cerrar un caso antes de que se resuelva; sin embargo, el estado de facturación del incidente queda a discreción de Microsoft.22°¿Mi WINDOWS no puede encotrar el nuevo hadware?
+
+Primero consulta el manual para verificar que el dispositivo esté correctamente instalado. Si está bien instalado, haz clic en MI PC / PROPIEDADES / ADMINSITRADOR DE DISPOSITIVOS. Encuentra el dispositivo que tiene el problema. Si se levanta la bandera, utilice PROPIEDADES para ver cuál es el problema. Si no se soluciona, haz clic en QUITAR y reinicie el equipo. Ahora Windows debe volver a reconocer el hardware que acabas de quitar y debe instalar los controladores adecuados, para lo cual necesita tener primero una copia del nuevo controlador del sistema. Si no funciona, utiliza el asistente AGREGAR NUEVO HARDWARE para seleccionar el dispositivo y controladores manualmente.
+
++ **_22¿Mi WINDOWS no puede encotrar el nuevo hadware?_**
+
+> Primero consulta el manual para verificar que el dispositivo esté correctamente instalado. Si está bien instalado, haz clic en MI PC / PROPIEDADES / ADMINSITRADOR DE DISPOSITIVOS. Encuentra el dispositivo que tiene el problema. Si se levanta la bandera, utilice PROPIEDADES para ver cuál es el problema. Si no se soluciona, haz clic en QUITAR y reinicie el equipo. Ahora Windows debe volver a reconocer el hardware que acabas de quitar y debe instalar los controladores adecuados, para lo cual necesita tener primero una copia del nuevo controlador del sistema. Si no funciona, utiliza el asistente AGREGAR NUEVO HARDWARE para seleccionar el dispositivo y controladores manualmente.
+
++ **_23¿El hadware no funciona?_**
+
+> Con el software Plug and Play (PnP), podrás conectar un nuevo dispositivo en tu computadora y hacer que lo reconozca instantáneamente. Sin embargo, PnP puede detectar equivocadamente el nuevo hardware o incluso no detectarlo. Si esto sucede, haz una copia de seguridad de tu disco duro, crea un disco de arranque de emergencia y vuelve a iniciar el equipo. Si esto no funciona, el problema puede ser un conflicto en el puerto IRQ.
+
++ **_24¿La impresora no imprime?_**
+
+> Controladores; Si la impresora que estás utilizando no está configurada como “impresora predeterminada” o el controlador no está instalado, la impresora puede imprimir caracteres distorsionados.
+
++**_25¿El ecaner no funciona?_**
+
+> El principal problema de los escáners es el puerto paralelo.
+
++ **_26¿Mi imagen no aparece en la pantalla o aparce una gama limitada de colores?_**
+
+ > No aparece la imagen. Revisa que la pantalla esté encendida, los cables estén conectados y la configuración de brillo y contraste esté correcta.
+
++ **_27¿Cuáles son 5 Códigos de Error de Redes?_**
+
+ > 1.-14 La conexión se ha eliminado o reconectado.2.-600 Hay una operación pendiente. Puede haberse modificado la configuración del módem sin reiniciar Window 3.- 601 No es válido el indicador de puerto. Puede haberse modificado la configuración de un módem sin reiniciar Windows. 4.-602 El puerto ya está abierto. Otro programa está utilizando el módem 5.-603 Las configuraciones del búfer (espacio disponible en el equipo para acceder al módem) son demasiado pequeñas. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
+
++ **_28¿Qué se debe actualizar y/o cambiar en una pc?_**
+
+> Microproocesador, Memoria RAM, Tarjeta grafica, Disco duro
 
