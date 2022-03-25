@@ -129,4 +129,17 @@ programa. Esta fase requiere una clara definición donde se contemple exactament
 
 >21_Localizar Problemas de Equipo ("Hardware"), cotejar los mensajes de error.
 
++ **_12¿Quiere acceder a un archivo en una unidad compartida, pero por alguna razón, no puede hacerlo?. ¿Qué vas a hacer?_**
+>Primero, verifique si el sistema que comparte la unidad está encendido. Si es así, verificará los otros archivos a los que tiene permiso para acceder para ver si el problema está en todos los archivos. Compruebe si tiene permiso, es decir, los permisos correctos para acceder a ese archivo en particular.
+Si todo está bien y, sin embargo, no puede acceder a ese archivo, asegúrese de que sus programas funcionen bien para copiar ese archivo en su unidad local. Además, asegúrese de que el archivo no esté siendo utilizado por otra persona.
+
++ **_13¿Puedo acceder al soporte?_**
+> El acceso al soporte estándar está incluido en su suscripción a los productos de Tableau. Está disponible durante la vigencia de su contrato de suscripción. El soporte estándar también se incluye en la compra de licencias perpetuas durante un año. Luego de transcurrido ese período, requiere la renovación anual del mantenimiento. Tableau también ofrece programas de soporte ampliado y soporte prémium. Podrá encontrar los detalles en la página Servicios de soporte. Para obtener más información sobre la renovación, consulte nuestra Política de suscripción y mantenimiento.
+
++ **_14¿Puedo recibir asistencia para mis preguntas sobre procedimientos?_**
+> El equipo de soporte puede responder preguntas generales sobre procedimientos y proporcionar recursos de ayuda pertinentes. Nuestro equipo de Servicios de consultoría puede ofrecer asistencia para responder las preguntas específicas sobre su entorno o sus datos.
+
+**_14¿Cómo puedo saber si mi producto está todavía en el ciclo de vida y es apto para el soporte técnico?_**
+>los incidentes de soporte técnico profesional de Microsoft cubren todo el ciclo de vida del producto (tanto el soporte técnico estándar como el soporte técnico extendido). Para obtener más información, busca tu producto para revisar la elegibilidad del ciclo de vida.
+
 
