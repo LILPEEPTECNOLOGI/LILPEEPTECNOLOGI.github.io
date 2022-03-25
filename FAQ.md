@@ -196,7 +196,7 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 
 > Controladores; Si la impresora que estás utilizando no está configurada como “impresora predeterminada” o el controlador no está instalado, la impresora puede imprimir caracteres distorsionados.
 
-+**_25¿El ecaner no funciona?_**
++ **_25¿El ecaner no funciona?_**
 
 > El principal problema de los escáners es el puerto paralelo.
 
@@ -211,4 +211,5 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 + **_28¿Qué se debe actualizar y/o cambiar en una pc?_**
 
 > Microproocesador, Memoria RAM, Tarjeta grafica, Disco duro
+
 
