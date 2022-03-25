@@ -216,57 +216,57 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 
 > descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
 
-30¿SI hace ruidos extraños la pc?
++ **_30¿SI hace ruidos extraños la pc?_**
 
-Te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
+> Te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
 
-31¿Como actualizar el sistema operativo?
++ **_31¿Como actualizar el sistema operativo?_**
 
-La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
+> La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
 
-32¿Si el internet va lento?
++ **_32¿Si el internet va lento?_**
 
-Si aun así tu problema persiste, es posible que tu tarjeta de red esté estropeada, por lo que tendrías que hacerte con una nueva. Y para salir de dudas, asegúrate de que no dispongas de programas que se encuentren compartiendo archivos vía P2P como los Torrent, ya que estos quitan un importante ancho de banda
+> Si aun así tu problema persiste, es posible que tu tarjeta de red esté estropeada, por lo que tendrías que hacerte con una nueva. Y para salir de dudas, asegúrate de que no dispongas de programas que se encuentren compartiendo archivos vía P2P como los Torrent, ya que estos quitan un importante ancho de banda
 
-33¿Se reinicia el ordenador automaticamente?
++ **_33¿Se reinicia el ordenador automaticamente?_**
 
-Si tu ordenador se reinicia solo, esto se debe bien a que está infectado por algún tipo de virus que provoca un reinicio que se escapa de tu control, o a que hay cualquier tipo de error en tu sistema operativo que demanda el reinicio.
+> Si tu ordenador se reinicia solo, esto se debe bien a que está infectado por algún tipo de virus que provoca un reinicio que se escapa de tu control, o a que hay cualquier tipo de error en tu sistema operativo que demanda el reinicio.
 
-34¿El ordenador no se enciende?
++ **_34¿El ordenador no se enciende?_**
 
-Quizás hables de algún tipo de problema de arranque, pero también es posible que esté fallando la fuente de alimentación.
+> Quizás hables de algún tipo de problema de arranque, pero también es posible que esté fallando la fuente de alimentación.
 
-35¿Problemas con la pantalla del portátil?
++ **_35¿Problemas con la pantalla del portátil?_**
 
-A veces el ordenador se enciende, pero se money casino games queda la pantalla negra. Puede que simplemente sea que se haya configurado para abrirse en un monitor externo, pero también puede que se haya averiado la iluminación.
+ > A veces el ordenador se enciende, pero se money casino games queda la pantalla negra. Puede que simplemente sea que se haya configurado para abrirse en un monitor externo, pero también puede que se haya averiado la iluminación.
 
-36¿El ratón y el teclado no funcionan?
++ **_36¿El ratón y el teclado no funcionan?_**
 
-Puede que sea sólo una mala conexión o necesites limpiar la rueda de tu mouse. Para eso no hace faltar reparar (evidentemente), pero también puede que se haya averiado el puerto o se haya torcido el conector.
+> Puede que sea sólo una mala conexión o necesites limpiar la rueda de tu mouse. Para eso no hace faltar reparar (evidentemente), pero también puede que se haya averiado el puerto o se haya torcido el conector.
 
-37¿Mi lector de CDs no reconoce los discos?
++ **_37¿Mi lector de CDs no reconoce los discos?_**
 
-Si no te deja leer CDs, tienes un problema. Puede que la dificultad esté en que el disco esté sucio o rayado, haya un problema de drivers o que realmente esté dañado
+> Si no te deja leer CDs, tienes un problema. Puede que la dificultad esté en que el disco esté sucio o rayado, haya un problema de drivers o que realmente esté dañado
 
-38¿Problemas con la tarjeta gráfica?
++ **_38¿Problemas con la tarjeta gráfica?_**
 
-Al margen de los problemas de drivers, si tu tarjeta está integrada, siempre puede haber problemas ligados al calentamiento general o el correcto funcionamiento de la placa base.
+> Al margen de los problemas de drivers, si tu tarjeta está integrada, siempre puede haber problemas ligados al calentamiento general o el correcto funcionamiento de la placa base.
 
-39¿Problemas con los ventiladores de tu PC?
++ **_39¿Problemas con los ventiladores de tu PC?_**
 
-A veces están sucios o averiados, hacen un ruido anormal al arrancar el ordenador o directamente no se encienden. Todo esto son signos de que necesitan abrir la carcasa y hacer tareas de mantenimiento informático.
+> A veces están sucios o averiados, hacen un ruido anormal al arrancar el ordenador o directamente no se encienden. Todo esto son signos de que necesitan abrir la carcasa y hacer tareas de mantenimiento informático.
 
-40¿Problemas con la RAM?
++ **_40¿Problemas con la RAM?_**
 
-Puede ser que un slot de la RAM no está encajando correctamente,
+ > Puede ser que un slot de la RAM no está encajando correctamente,
 
-41¿Computadora infectada con virus?
++ **_41¿Computadora infectada con virus?_**
 
-Tener un antivirus instalado que te alertará sobre los archivos que descargás. Si sospechas que tu computadora está infectada, llevala a un técnico para que te ayude a eliminar el virus.
+> Tener un antivirus instalado que te alertará sobre los archivos que descargás. Si sospechas que tu computadora está infectada, llevala a un técnico para que te ayude a eliminar el virus.
 
-42¿La temida pantalla azul?
++ **_ 42¿La temida pantalla azul?_**
 
-Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
+> Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
 
 
 
