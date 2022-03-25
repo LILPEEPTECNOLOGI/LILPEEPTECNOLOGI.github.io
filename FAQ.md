@@ -142,4 +142,43 @@ Si todo está bien y, sin embargo, no puede acceder a ese archivo, asegúrese de
 **_14¿Cómo puedo saber si mi producto está todavía en el ciclo de vida y es apto para el soporte técnico?_**
 >los incidentes de soporte técnico profesional de Microsoft cubren todo el ciclo de vida del producto (tanto el soporte técnico estándar como el soporte técnico extendido). Para obtener más información, busca tu producto para revisar la elegibilidad del ciclo de vida.
 
++ **_15¿Que es el MS/2?_**
+
+> Es un Sistema operativo ue se mane”a en la computadora a tra%5s dec+di7os.
+
+**_16¿Cuales son los elementos basicos de un equipo de computo?_**
+
+> Monitor
+
+> Teclado
+
+> Mouse
+
+> Gabinete
+
++ **_17¿Cómo puedo saber si mi producto está todavía en el ciclo de vida y es apto para el soporte técnico?_**
+
+> Los incidentes de soporte técnico profesional de Microsoft cubren todo el ciclo de vida del producto (tanto el soporte técnico estándar como el soporte técnico extendido). Para obtener más información, busca.tu.producto para revisar la elegibilidad del ciclo de vida.
+
++ **_18¿Hay algo que el soporte técnico Profesional no cubra?_**
+
+> Las propuestas de los clientes para las características del producto, el soporte técnico in situ, el análisis de la causa principal, los productos fuera del ciclo de vida del soporte técnico, la escritura o revisión del código personalizado y el soporte técnico para desarrolladores para complementos de Office 365, API, etc., incluyendo Microsoft Graph, no están cubiertos.
+
++ **_19¿Qué se considera una solución aceptable al problema?_**
+
+> El profesional de soporte técnico se pondrá de acuerdo contigo en la definición del problema cuando plantee el incidente de soporte técnico. El incidente se cerrará después de que el profesional de soporte técnico te haya entregado una o más soluciones sugeridas.
+
++ **_20¿Cuál es el tiempo de respuesta esperado?_**
+
+>Se puede dar soporte técnico a los incidentes de soporte técnico profesional las 24 horas del día o durante el horario comercial hasta que se resuelvan. Si se selecciona soporte técnico las 24 horas, tu empresa debe tener personas disponibles para trabajar en el incidente potencialmente las 24 horas del día. El tiempo de respuesta será de entre 2 y 8 horas, dependiendo de la gravedad del incidente:
+
+> Gravedad A (impacto crítico para el negocio) - 2 horas de respuesta inicial
+
+> Gravedad B (Impacto moderado para el negocio) - 4 horas laborables de tiempo de respuesta inicial
+
+> Gravedad C (impacto mínimo para el negocio) - 8 horas laborables de tiempo de respuesta inicial
+
++ **_21¿Se me garantiza una solución?:_**
+
+> Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes. Los clientes pueden solicitar cerrar un caso antes de que se resuelva; sin embargo, el estado de facturación del incidente queda a discreción de Microsoft.
 
