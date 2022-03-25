@@ -212,4 +212,59 @@ Primero consulta el manual para verificar que el dispositivo esté correctamente
 
 > Microproocesador, Memoria RAM, Tarjeta grafica, Disco duro
 
+¿Que hacer si el PC va lento?
+
+descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
+
+21°¿SI hace ruidos extraños la pc?
+
+Te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
+
+22°¿Como actualizar el sistema operativo?
+
+La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
+
+23°¿Si el internet va lento?
+
+Si aun así tu problema persiste, es posible que tu tarjeta de red esté estropeada, por lo que tendrías que hacerte con una nueva. Y para salir de dudas, asegúrate de que no dispongas de programas que se encuentren compartiendo archivos vía P2P como los Torrent, ya que estos quitan un importante ancho de banda
+
+24°¿Se reinicia el ordenador automaticamente?
+
+Si tu ordenador se reinicia solo, esto se debe bien a que está infectado por algún tipo de virus que provoca un reinicio que se escapa de tu control, o a que hay cualquier tipo de error en tu sistema operativo que demanda el reinicio.
+
+25°¿El ordenador no se enciende?
+
+Quizás hables de algún tipo de problema de arranque, pero también es posible que esté fallando la fuente de alimentación.
+
+25°¿Problemas con la pantalla del portátil?
+
+A veces el ordenador se enciende, pero se money casino games queda la pantalla negra. Puede que simplemente sea que se haya configurado para abrirse en un monitor externo, pero también puede que se haya averiado la iluminación.
+
+26°¿El ratón y el teclado no funcionan?
+
+Puede que sea sólo una mala conexión o necesites limpiar la rueda de tu mouse. Para eso no hace faltar reparar (evidentemente), pero también puede que se haya averiado el puerto o se haya torcido el conector.
+
+27°¿Mi lector de CDs no reconoce los discos?
+
+Si no te deja leer CDs, tienes un problema. Puede que la dificultad esté en que el disco esté sucio o rayado, haya un problema de drivers o que realmente esté dañado
+
+28°¿Problemas con la tarjeta gráfica?
+
+Al margen de los problemas de drivers, si tu tarjeta está integrada, siempre puede haber problemas ligados al calentamiento general o el correcto funcionamiento de la placa base.
+
+29°¿Problemas con los ventiladores de tu PC?
+
+A veces están sucios o averiados, hacen un ruido anormal al arrancar el ordenador o directamente no se encienden. Todo esto son signos de que necesitan abrir la carcasa y hacer tareas de mantenimiento informático.
+
+30°¿Problemas con la RAM?
+
+Puede ser que un slot de la RAM no está encajando correctamente,
+
+31°¿Computadora infectada con virus?
+
+Tener un antivirus instalado que te alertará sobre los archivos que descargás. Si sospechas que tu computadora está infectada, llevala a un técnico para que te ayude a eliminar el virus.
+
+32°¿La temida pantalla azul?
+
+Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
 
