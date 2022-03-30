@@ -12,7 +12,13 @@
 **NUMERO DE WHATSAPP** :5533957727
 
 <form action="https://formspree.io/f/xyyodwbr" method="post">
-Name: <input type="text" name="name"><br>
+Nombres: <input type="text" name="nombres"><br                                             
+Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
+Numero de telefono: <input type="tel">
+Fecha de servicio : <input type="datetime-local">
+Clificacion de servicio: <input type="range">
 <input type="submit">
-</form>
+</form> 
+
+
