@@ -14,3 +14,5 @@
 + >**_Nuetra Misión: es ayudará todos  nuestros clientes  con el apoyo de nuestros técnicos para facilitar y satisfacer al cliente con nuestro desempeño  como empresa con los mejores equipos_**
 
 + >**_Nuestos Valores: es tener en cuenta  los requisitos y medidas que pida el cliente para  que nosotros seamos parte de sus prioridades reconocer y ayudar cundo más lo necesiten_**
+
+
